@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1575297777/7233/baby-yoda.png?1575297777" width="30"/> Olá, bom ver você aqui.</h1>
-<p>Seja bem vindo!</br> Me chamo Kayo, sou apaixonado por tecnologia desde pequeno, e estou sempre antenado nas ferramentas que o mercado esta usando, atualmente estou aprendendo NodeJS, ReactJS e React Native, tudo com Typescript rsrs.
+<p>Seja bem vindo!</br> Me chamo Kayo, sou apaixonado por tecnologia desde pequeno, e estou sempre antenado nas ferramentas que o mercado esta usando, atualmente trabalho com C#, NodeJS, ReactJS e React Native.
 <h3>Sempre que posso estou usando:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
