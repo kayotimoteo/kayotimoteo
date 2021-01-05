@@ -16,7 +16,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kayotimoteo&show_icons=true&theme=radical)
 <!--
 **kayotimoteo/kayotimoteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
